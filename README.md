@@ -7,14 +7,18 @@ I'm also passionate about cybersecurity, and I enjoy learning about ethical hack
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndronicusLepcha&show_icons=true&theme=radical)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndronicusLepcha&show_icons=true&locale=en&layout=compact" alt="AndronicusLepcha" />
+
+
 
 ## GitHub Streaks
 
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=AndronicusLepcha&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndronicusLepcha&" alt="AndronicusLepcha"/>
+</p>
 
 ## Visitors
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=<username>.<username>)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndronicusLepcha&label=Profile%20views&color=0e75b6&style=flat" alt="AndronicusLepcha" /> </p>
 
 ## Contact Me
 
