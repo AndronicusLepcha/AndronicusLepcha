@@ -11,10 +11,11 @@ I'm also passionate about cybersecurity, and I enjoy learning about ethical hack
 
 
 
+
+
 ## GitHub Streaks
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndronicusLepcha&" alt="AndronicusLepcha"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AndronicusLepcha&theme=dark)](https://git.io/streak-stats)
 
 ## Visitors
 
