@@ -4,15 +4,6 @@ Hello there! I'm a web developer and cybersecurity student, and I love building 
 
 I'm also passionate about cybersecurity, and I enjoy learning about ethical hacking, penetration testing, and computer forensics.
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndronicusLepcha&show_icons=true&theme=radical)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndronicusLepcha&show_icons=true&locale=en&layout=compact" alt="AndronicusLepcha" />
-
-
-
-
-
 ## GitHub Streaks
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AndronicusLepcha&theme=dark)](https://git.io/streak-stats)
