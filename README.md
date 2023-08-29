@@ -6,7 +6,7 @@ I'm also passionate about cybersecurity, and I enjoy learning about ethical hack
 
 ## GitHub Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AndronicusLepcha&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AndronicusLepcha&theme=merko)](https://git.io/streak-stats)
 
 ## Visitors
 
