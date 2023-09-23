@@ -1,8 +1,9 @@
-# Web Developer and Cybersecurity Student
+# Coder Robot
 
-Hello there! I'm a web developer and cybersecurity student, and I love building secure and user-friendly web applications. My skillset includes HTML, CSS, JavaScript, React, and other front-end technologies.
+Cybersecurity Enthusiast | Web Developer | Algorithmic Problem Solver
 
-I'm also passionate about cybersecurity, and I enjoy learning about ethical hacking, penetration testing, and computer forensics.
+Welcome to my GitHub profile! I'm a final-year engineering student passionate about cybersecurity, ethical hacking, and web development. I'm also actively preparing for job placements while continually honing my skills in algorithmic problem solving.
+
 
 ## GitHub Streaks
 
