@@ -10,6 +10,8 @@ Welcome to my coding journey! I'm on a mission to explore the world of code, mas
 
 🌟 Join me as I unravel the secrets of the digital universe.
 
+💼 Currently, I'm actively preparing for career opportunities in the field of technology, where I can leverage my skills and passion to make a positive impact.
+
 
 
 ## GitHub Streaks
