@@ -1,17 +1,16 @@
 # Coder Robot
 
-🚀 Code Explorer | 🌐 Web Developer | 🛡️ Cybersecurity Enthusiast
+🚀 Code Explorer | 🌐 Web Developer | 🛡️ Backend Developer
 
-Welcome to my coding journey! I'm on a mission to explore the world of code, master the art of web development, and safeguard digital realms through cybersecurity. 
+Welcome to my coding journey! I'm on a mission to explore the vast world of code, master the art of web development, and ensure digital security.
 
-👨‍💻 I code to create, innovate, and secure.
+👨‍💻 I code to innovate, create, and safeguard digital realms.
 
-📚 Learning is my fuel, and challenges are my stepping stones.
+💼 Currently, I am employed as an IT Engineer-Software at Keysight Technologies.
 
-🌟 Join me as I unravel the secrets of the digital universe.
+🔍 Previously, I gained valuable experience as an IT Intern at Keysight Technologies.
 
-💼 Currently, I'm actively preparing for career opportunities in the field of technology, where I can leverage my skills and passion to make a positive impact.
-
+Let's shape the future through technology! 🌟
 
 
 ## GitHub Streaks
@@ -25,6 +24,5 @@ Welcome to my coding journey! I'm on a mission to explore the world of code, mas
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndronicusLepcha&label=Profile%20views&color=0e75b6&style=flat" alt="AndronicusLepcha" /> </p>
 
-## Contact Me
-
-Feel free to reach out to me on GitHub or via email at androlepcha843@gmail.com. Let's connect and collaborate!
+## Contact Me 📞
+Feel free to reach out to me on GitHub 🌐 or via email at androlepcha843@gmail.com 📧. Let's connect and collaborate! 🤝
