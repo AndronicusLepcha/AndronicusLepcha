@@ -6,7 +6,9 @@ Welcome to my coding journey! I'm on a mission to explore the vast world of code
 
 👨‍💻 I code to innovate, create, and safeguard digital realms.
 
-💼 Currently, I am employed as an IT Engineer-Software at Keysight Technologies.
+💼 Currently, I am employed as a full-time IT Engineer-Software at Keysight Technologies.
+
+💼 Previously, I worked as an IT Engineer-Software at Keysight Technologies through Mynd.
 
 🔍 Previously, I gained valuable experience as an IT Intern at Keysight Technologies.
 
